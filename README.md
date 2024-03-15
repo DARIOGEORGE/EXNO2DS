@@ -24,8 +24,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 ```
-Developed by : Lathikeshwaran J
-Register no.:  212222230072
+Developed by : DARIO G
+Register no.:  212222230027
 ```
 ```
 import pandas as pd
